@@ -1,0 +1,23 @@
+# Web Framework
+streamlit
+
+# Environment & Utilities
+python-dotenv
+pydantic
+
+# LangChain Core & Groq
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+
+# Tools & API Wrappers
+langchain-tavily
+wikipedia
+
+# PDF Processing & RAG (Retrieval Augmented Generation)
+pymupdf
+langchain-huggingface
+langchain-chroma
+sentence-transformers
